@@ -1,0 +1,25 @@
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8201
+spring:
+  application:
+    name: springcloud-config-client
+  profiles: dev
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001-dev.com:7001/eureka/
+---
+server:
+  port: 8202
+spring:
+  application:
+    name: springcloud-config-client
+  profiles: test
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001-test.com:7001/eureka/

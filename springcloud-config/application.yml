@@ -1,0 +1,15 @@
+server:
+  port: 81
+spring:
+  profiles:
+    active: dev
+---
+spring:
+  application:
+    name: moyingren-config-dev
+  profiles: dev
+---
+spring:
+  application:
+    name: moyingren-config-test
+  profiles: test
