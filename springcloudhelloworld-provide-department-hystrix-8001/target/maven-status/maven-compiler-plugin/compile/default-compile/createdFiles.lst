@@ -1,0 +1,5 @@
+com\moyingren\springcloud\DepartmentProviderHystrix8001_App.class
+com\moyingren\springcloud\controller\DepartmentController.class
+com\moyingren\springcloud\service\DepartmentService.class
+com\moyingren\springcloud\service\Impl\DepartmentServiceImpl.class
+com\moyingren\springcloud\dao\DepartmentDao.class

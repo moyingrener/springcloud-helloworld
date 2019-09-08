@@ -1,0 +1,27 @@
+server:
+  port: 82
+spring:
+  application:
+    name: moyingren-department-consumer-feign-82
+eureka:
+  client: #客户端注册进eureka服务列表内
+    register-with-eureka: false
+    service-url:
+      #defaultZone: http://localhost:7001/eureka #单机
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: moyingren-department-consumer-feign-82
+    prefer-ip-address: true     #访问路径可以显示IP地址
+info:
+  app.name: springcloudhelloworld
+  company.name: www.springcloudhelloworld.com
+  build.artifactId: springcloudhelloworld-consumer-department-feign-82
+  build.version: 1.0-SNAPSHOT
+
+feign:
+  hystrix:
+    enabled: true
+#feigin结合ribbon 改变负载均衡策略
+#MICROSERVICE-ORDER://服务名
+#  ribbon:
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule//算法

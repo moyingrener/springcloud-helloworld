@@ -1,0 +1,5 @@
+com\moyingren\myrule\MyRule.class
+com\moyingren\springcloud\DepartmentConsumer81_App.class
+com\moyingren\myrule\RandomRule_ZDY.class
+com\moyingren\springcloud\config\ConfigBean.class
+com\moyingren\springcloud\controller\DepartmentController_Consumer.class

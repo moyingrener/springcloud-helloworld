@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f3dfc52-782e-490d-931e-5f1617d9a6a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1QG6CFzyuaHNJOJOAF5zhdu3r0P" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloudhelloworld-config-client-3355/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/springcloudhelloworld-eureka-7002/src/main/resources/application.yml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhelloworld-config-client-3355\src\main\resources" />
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhellowordprovidedepartment8003\src\main\resources" />
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhellowordprovidedepartment8003\src\main\java\com\moyingren" />
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhellowordprovidedepartment8002\src\main\resources" />
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhellowordprovidedepartment8002\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.cloud" />
+      <recent name="cloud" />
+      <recent name="java.com.spring.cloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\软件工程\新建用\Spring boot项目\springcloudhelloword\springcloudhelloword-provide-department-8001\src\main\resources\mybatis\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DepartmentProvider8001_App (2)">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="D:/maven/apache-maven-3.6.0" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.0\conf\settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworld-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentConsumer81_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworldconsumerdepartment81" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentConsumer81_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentConsumerFeign82_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworldconsumerdepartmentfeign82" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentConsumerFeign82_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentConsumerFeign82_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudhelloworld-consumer-department-feign-82" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyingren.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentConsumerFeign82_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentConsumerHystrixDashboard9001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworldconsumerhystrixdashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentConsumerHystrixDashboard9001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProvider8001_App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhellowordprovidedepartment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.DepartmentProvider8001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProvider8001_App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudhelloworld-config-dept-client-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyingren.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentProvider8001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProvider8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudhelloworld-provide-department-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyingren.springcloud.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentProvider8001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProvider8002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworld-provide-department-8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentProvider8002_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProvider8003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworld-provide-department-8003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentProvider8003_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentProviderHystrix8001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworld-provide-department-hystrix-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.DepartmentProviderHystrix8001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001_App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudhelloworld-config-eureka-client-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyingren.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.EurekaServer7001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloword-eureka-7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.EurekaServer7001_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002_App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloword-eureka-7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.EurekaServer7002_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhellowordeureka7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.EurekaServer7002_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7003_App (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloudhelloword-eureka-7003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.EurekaServer7003_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7003_App (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloword-eureka-7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.EurekaServer7003_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7003_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhellowordeureka7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring.cloud.EurekaServer7003_App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloud_Config_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloudhelloworld-config-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.SpringCloud_Config_3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zuul_9527_StartSpringCloudApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-helloworld-zuul-gateway-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyingren.springcloud.rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyingren.springcloud.Zuul_9527_StartSpringCloudApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DepartmentProvider8001_App (2)" />
+        <item itemvalue="Spring Boot.EurekaServer7001_App (2)" />
+        <item itemvalue="Spring Boot.Zuul_9527_StartSpringCloudApp" />
+        <item itemvalue="Spring Boot.DepartmentProvider8001_App" />
+        <item itemvalue="Spring Boot.EurekaServer7003_App (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.25119454" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3f5341aa" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f3dfc52-782e-490d-931e-5f1617d9a6a8" name="Default Changelist" comment="" />
+      <created>1567384456499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567384456499</updated>
+      <workItem from="1567384458161" duration="3204000" />
+      <workItem from="1567405923132" duration="2045000" />
+      <workItem from="1567407977918" duration="597000" />
+      <workItem from="1567408702530" duration="799000" />
+      <workItem from="1567421328606" duration="1191000" />
+      <workItem from="1567422538063" duration="4042000" />
+      <workItem from="1567469511761" duration="4430000" />
+      <workItem from="1567557123138" duration="7594000" />
+      <workItem from="1567599552487" duration="11351000" />
+      <workItem from="1567642367255" duration="3998000" />
+      <workItem from="1567657281881" duration="755000" />
+      <workItem from="1567683052120" duration="6680000" />
+      <workItem from="1567731498522" duration="2913000" />
+      <workItem from="1567761173727" duration="597000" />
+      <workItem from="1567777297158" duration="1076000" />
+      <workItem from="1567778430147" duration="4672000" />
+      <workItem from="1567820461952" duration="7454000" />
+      <workItem from="1567842239784" duration="3129000" />
+      <workItem from="1567865309894" duration="1076000" />
+      <workItem from="1567910356407" duration="4469000" />
+      <workItem from="1567924669191" duration="2411000" />
+      <workItem from="1567927942285" duration="6641000" />
+      <workItem from="1567935876855" duration="2571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

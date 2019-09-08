@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloudhelloworld-provide-department-8002" />
+        <module name="springcloudhelloword-eureka-7001" />
+        <module name="springcloudhelloworld-config-client-3355" />
+        <module name="springcloudhelloworld-config-eureka-client-7001" />
+        <module name="springcloudhelloword-eureka-7003" />
+        <module name="springcloudhelloworld-api" />
+        <module name="springcloudhelloworld-provide-department-8001" />
+        <module name="springcloudhelloworld-consumer-department-feign-82" />
+        <module name="springcloudhelloword-eureka-7002" />
+        <module name="springcloudhelloworld-config-3344" />
+        <module name="springcloudhelloworld-provide-department-8003" />
+        <module name="springcloud-helloworld-zuul-gateway-9527" />
+        <module name="springcloudhelloworld-provide-department-hystrix-8001" />
+        <module name="springcloudhelloworldconsumerhystrixdashboard" />
+        <module name="springcloudhelloworld-config-dept-client-8001" />
+        <module name="springcloudhelloworldconsumerdepartment81" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloudhellowordapi" target="1.8" />
+      <module name="springcloudhellowordeureka7001" target="1.8" />
+      <module name="springcloudhellowordeureka7002" target="1.8" />
+      <module name="springcloudhellowordeureka7003" target="1.8" />
+      <module name="springcloudhellowordprovidedepartment8001" target="1.8" />
+      <module name="springcloudhellowordprovidedepartment8002" target="1.8" />
+      <module name="springcloudhellowordprovidedepartment8003" target="1.8" />
+      <module name="springcloudhelloworldconsumerdepartmentfeign82" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
