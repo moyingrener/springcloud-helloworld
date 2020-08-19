@@ -2,7 +2,7 @@ server:
   port: 81
 spring:
   profiles:
-    active: dev
+    active: test
 ---
 spring:
   application:
